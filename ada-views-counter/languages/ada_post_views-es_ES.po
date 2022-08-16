@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: admin/templates/ada-views-counter.php
+msgid "Sorry you can't call me directly"
+msgstr "No puedes llamarme directamente"
+
+#: admin/templates/ada-views-counter.php
+msgid "Views"
+msgstr "Vistas"
+
+#: admin/templates/info.php
+msgid "Ada Posts Views Counter"
+msgstr "Ada Posts Views Counter"
+
+#: admin/templates/info.php
+msgid "Basic information"
+msgstr "Información básica"
+
+#: admin/templates/info.php
+msgid "This plugin adds a visitor counter in each post type content."
+msgstr "Este complemento agrega un contador de visitantes en cada contenido de tipo de publicación."
+
+#: admin/templates/info.php
+msgid "This counter increments each time the_content Wordpress action is executed."
+msgstr "Este contador se incrementa cada vez que se ejecuta la acción de Wordpress the_content."
+
+#: admin/templates/info.php
+msgid "In addition, in the administrator view you will be able to see the number of visits to each post, both in the list and in the edit page of a post."
+msgstr "Además, en la vista de administrador podrás ver el número de visitas a cada publicación, tanto en la lista como en la página de edición de una publicación."
+
+#: admin/templates/info.php
+msgid "If you want to show the number of visits in the frontend, you will have to modify your theme and add a call to the shortcode"
+msgstr "Si desea mostrar la cantidad de visitas en la interfaz, deberá modificar su tema y agregar una llamada al shortcode"
